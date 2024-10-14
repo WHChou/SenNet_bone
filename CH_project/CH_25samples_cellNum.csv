@@ -1,0 +1,443 @@
+"","Sample_ID","cluster_anno_coarse_WC","n"
+"1","HT067B1","CD8+ T cell",618
+"2","HT067B1","Macrophage",273
+"3","HT067B1","Mature B",144
+"4","HT067B1","Megakaryocyte",7
+"5","HT067B1","Monocyte",1187
+"6","HT067B1","NK cell",501
+"7","HT067B1","T cell",602
+"8","HT067B1","pDC",38
+"9","MMRF_1342","B progenitors",251
+"10","MMRF_1342","CD8+ T cell",597
+"11","MMRF_1342","GMP",115
+"12","MMRF_1342","Macrophage",344
+"13","MMRF_1342","Mature B",294
+"14","MMRF_1342","Monocyte",630
+"15","MMRF_1342","NK cell",265
+"16","MMRF_1342","Plasma cell",70
+"17","MMRF_1342","RBC",192
+"18","MMRF_1342","T cell",630
+"19","MMRF_1342","pDC",25
+"20","MMRF_1538","CD8+ T cell",358
+"21","MMRF_1538","GMP",182
+"22","MMRF_1538","HSPC",78
+"23","MMRF_1538","Late myeloid",53
+"24","MMRF_1538","Macrophage",111
+"25","MMRF_1538","Mature B",443
+"26","MMRF_1538","Monocyte",954
+"27","MMRF_1538","NK cell",169
+"28","MMRF_1538","Plasma cell",436
+"29","MMRF_1538","RBC",463
+"30","MMRF_1538","T cell",327
+"31","MMRF_1538","pDC",43
+"32","MMRF_1539","CD8+ T cell",193
+"33","MMRF_1539","HSPC",27
+"34","MMRF_1539","Mature B",148
+"35","MMRF_1539","Monocyte",665
+"36","MMRF_1539","NK cell",116
+"37","MMRF_1539","Plasma cell",3791
+"38","MMRF_1539","T cell",630
+"39","MMRF_1607","B Progenitors",174
+"40","MMRF_1607","B progenitors",34
+"41","MMRF_1607","CD8+ T cell",462
+"42","MMRF_1607","HSPC",175
+"43","MMRF_1607","Macrophage",50
+"44","MMRF_1607","Mature B",310
+"45","MMRF_1607","Monocyte",980
+"46","MMRF_1607","NK cell",193
+"47","MMRF_1607","Plasma cell",19
+"48","MMRF_1607","T cell",1087
+"49","MMRF_1607","Unknown lymphoid",79
+"50","MMRF_1607","pDC",71
+"51","MMRF_2153","B progenitors",22
+"52","MMRF_2153","CD8+ T cell",545
+"53","MMRF_2153","Early erythroid",451
+"54","MMRF_2153","Early myeloid",367
+"55","MMRF_2153","GMP",88
+"56","MMRF_2153","HSPC",141
+"57","MMRF_2153","Late myeloid",30
+"58","MMRF_2153","Mature B",38
+"59","MMRF_2153","Monocyte",275
+"60","MMRF_2153","NK cell",437
+"61","MMRF_2153","RBC",341
+"62","MMRF_2153","Stromal",32
+"63","MMRF_2153","T cell",985
+"64","MMRF_2153","cDC2",74
+"65","MMRF_2153","pDC",85
+"66","MMRF_2469","HSPC",147
+"67","MMRF_2469","Mature B",267
+"68","MMRF_2469","Monocyte",266
+"69","MMRF_2469","NK cell",382
+"70","MMRF_2469","Plasma cell",5887
+"71","MMRF_2469","RBC",271
+"72","MMRF_2469","T cell",711
+"73","SN113R1","B progenitors",143
+"74","SN113R1","CD8+ T cell",760
+"75","SN113R1","Early myeloid",282
+"76","SN113R1","GMP",87
+"77","SN113R1","HSPC",107
+"78","SN113R1","Intermediate myeloid",22
+"79","SN113R1","Late erythroid",127
+"80","SN113R1","Late myeloid",650
+"81","SN113R1","MSC",42
+"82","SN113R1","Macrophage",30
+"83","SN113R1","Mature B",294
+"84","SN113R1","Monocyte",481
+"85","SN113R1","NK cell",119
+"86","SN113R1","Neutrophil",871
+"87","SN113R1","Plasma cell",77
+"88","SN113R1","RBC",43
+"89","SN113R1","Stromal",5
+"90","SN113R1","T cell",753
+"91","SN113R1","Unknown myeloid",68
+"92","SN113R1","pDC",114
+"93","SN114R1","B progenitors",390
+"94","SN114R1","CD8+ T cell",208
+"95","SN114R1","Early myeloid",124
+"96","SN114R1","GMP",118
+"97","SN114R1","HSPC",75
+"98","SN114R1","Intermediate myeloid",12
+"99","SN114R1","Late erythroid",123
+"100","SN114R1","Late myeloid",456
+"101","SN114R1","MSC",16
+"102","SN114R1","Macrophage",10
+"103","SN114R1","Mature B",93
+"104","SN114R1","Monocyte",263
+"105","SN114R1","NK cell",35
+"106","SN114R1","Neutrophil",389
+"107","SN114R1","Plasma cell",20
+"108","SN114R1","RBC",42
+"109","SN114R1","Stromal",4
+"110","SN114R1","T cell",398
+"111","SN114R1","Unknown myeloid",19
+"112","SN114R1","pDC",56
+"113","SN115R1","B progenitors",195
+"114","SN115R1","CD8+ T cell",158
+"115","SN115R1","Early myeloid",250
+"116","SN115R1","GMP",89
+"117","SN115R1","HSPC",75
+"118","SN115R1","Intermediate myeloid",287
+"119","SN115R1","Late erythroid",410
+"120","SN115R1","Late myeloid",1034
+"121","SN115R1","MSC",17
+"122","SN115R1","Macrophage",22
+"123","SN115R1","Mature B",102
+"124","SN115R1","Monocyte",242
+"125","SN115R1","NK cell",99
+"126","SN115R1","Neutrophil",1967
+"127","SN115R1","Plasma cell",72
+"128","SN115R1","RBC",45
+"129","SN115R1","Stromal",5
+"130","SN115R1","T cell",479
+"131","SN115R1","Unknown myeloid",124
+"132","SN115R1","pDC",77
+"133","SN117R1","B progenitors",7
+"134","SN117R1","CD8+ T cell",280
+"135","SN117R1","Early myeloid",35
+"136","SN117R1","GMP",15
+"137","SN117R1","HSPC",18
+"138","SN117R1","Intermediate myeloid",3
+"139","SN117R1","Late erythroid",213
+"140","SN117R1","Late myeloid",167
+"141","SN117R1","MSC",134
+"142","SN117R1","Macrophage",66
+"143","SN117R1","Mature B",89
+"144","SN117R1","Monocyte",177
+"145","SN117R1","NK cell",860
+"146","SN117R1","Neutrophil",84
+"147","SN117R1","Plasma cell",23
+"148","SN117R1","RBC",233
+"149","SN117R1","Stromal",155
+"150","SN117R1","T cell",766
+"151","SN117R1","Unknown myeloid",1123
+"152","SN117R1","pDC",8
+"153","SN118R1","B progenitors",12
+"154","SN118R1","CD8+ T cell",687
+"155","SN118R1","Early myeloid",30
+"156","SN118R1","GMP",8
+"157","SN118R1","HSPC",16
+"158","SN118R1","Intermediate myeloid",2
+"159","SN118R1","Late erythroid",79
+"160","SN118R1","Late myeloid",151
+"161","SN118R1","MSC",1
+"162","SN118R1","Macrophage",24
+"163","SN118R1","Mature B",110
+"164","SN118R1","Monocyte",447
+"165","SN118R1","NK cell",1609
+"166","SN118R1","Neutrophil",63
+"167","SN118R1","Plasma cell",2
+"168","SN118R1","RBC",41
+"169","SN118R1","Stromal",3
+"170","SN118R1","T cell",2866
+"171","SN118R1","Unknown myeloid",2655
+"172","SN118R1","pDC",5
+"173","SN119R1","B progenitors",370
+"174","SN119R1","CD8+ T cell",1048
+"175","SN119R1","Early myeloid",537
+"176","SN119R1","GMP",96
+"177","SN119R1","HSPC",41
+"178","SN119R1","Intermediate myeloid",154
+"179","SN119R1","Late erythroid",84
+"180","SN119R1","Late myeloid",2094
+"181","SN119R1","Macrophage",13
+"182","SN119R1","Mature B",410
+"183","SN119R1","Monocyte",163
+"184","SN119R1","NK cell",577
+"185","SN119R1","Neutrophil",1183
+"186","SN119R1","Plasma cell",24
+"187","SN119R1","RBC",22
+"188","SN119R1","T cell",1033
+"189","SN119R1","Unknown myeloid",610
+"190","SN119R1","pDC",30
+"191","SN120R1","B progenitors",173
+"192","SN120R1","CD8+ T cell",540
+"193","SN120R1","Early myeloid",427
+"194","SN120R1","GMP",111
+"195","SN120R1","HSPC",31
+"196","SN120R1","Intermediate myeloid",71
+"197","SN120R1","Late erythroid",76
+"198","SN120R1","Late myeloid",1843
+"199","SN120R1","MSC",6
+"200","SN120R1","Macrophage",5
+"201","SN120R1","Mature B",251
+"202","SN120R1","Monocyte",297
+"203","SN120R1","NK cell",204
+"204","SN120R1","Neutrophil",1270
+"205","SN120R1","Plasma cell",15
+"206","SN120R1","RBC",8
+"207","SN120R1","Stromal",3
+"208","SN120R1","T cell",875
+"209","SN120R1","Unknown myeloid",1130
+"210","SN120R1","pDC",22
+"211","SN122R1","B progenitors",149
+"212","SN122R1","CD8+ T cell",867
+"213","SN122R1","Early myeloid",552
+"214","SN122R1","GMP",229
+"215","SN122R1","HSPC",61
+"216","SN122R1","Intermediate myeloid",312
+"217","SN122R1","Late erythroid",216
+"218","SN122R1","Late myeloid",738
+"219","SN122R1","MSC",134
+"220","SN122R1","Macrophage",138
+"221","SN122R1","Mature B",399
+"222","SN122R1","Monocyte",553
+"223","SN122R1","NK cell",152
+"224","SN122R1","Neutrophil",880
+"225","SN122R1","Plasma cell",57
+"226","SN122R1","RBC",24
+"227","SN122R1","Stromal",43
+"228","SN122R1","T cell",772
+"229","SN122R1","Unknown myeloid",395
+"230","SN122R1","pDC",34
+"231","SN124R1","B progenitors",29
+"232","SN124R1","CD8+ T cell",124
+"233","SN124R1","Early myeloid",119
+"234","SN124R1","GMP",61
+"235","SN124R1","HSPC",41
+"236","SN124R1","Intermediate myeloid",4
+"237","SN124R1","Late erythroid",31
+"238","SN124R1","Late myeloid",254
+"239","SN124R1","MSC",3
+"240","SN124R1","Macrophage",6
+"241","SN124R1","Mature B",113
+"242","SN124R1","Monocyte",443
+"243","SN124R1","NK cell",183
+"244","SN124R1","Neutrophil",543
+"245","SN124R1","Plasma cell",29
+"246","SN124R1","RBC",5
+"247","SN124R1","T cell",435
+"248","SN124R1","Unknown myeloid",244
+"249","SN124R1","pDC",42
+"250","SN126R1","B progenitors",178
+"251","SN126R1","CD8+ T cell",78
+"252","SN126R1","Early myeloid",311
+"253","SN126R1","GMP",51
+"254","SN126R1","HSPC",117
+"255","SN126R1","Intermediate myeloid",9
+"256","SN126R1","Late erythroid",47
+"257","SN126R1","Late myeloid",1181
+"258","SN126R1","Macrophage",19
+"259","SN126R1","Mature B",21
+"260","SN126R1","Monocyte",407
+"261","SN126R1","NK cell",15
+"262","SN126R1","Neutrophil",567
+"263","SN126R1","Plasma cell",36
+"264","SN126R1","RBC",9
+"265","SN126R1","T cell",157
+"266","SN126R1","Unknown myeloid",112
+"267","SN126R1","pDC",58
+"268","SN127R1","B progenitors",107
+"269","SN127R1","CD8+ T cell",79
+"270","SN127R1","Early myeloid",99
+"271","SN127R1","GMP",52
+"272","SN127R1","HSPC",64
+"273","SN127R1","Intermediate myeloid",43
+"274","SN127R1","Late erythroid",53
+"275","SN127R1","Late myeloid",570
+"276","SN127R1","MSC",13
+"277","SN127R1","Macrophage",22
+"278","SN127R1","Mature B",70
+"279","SN127R1","Monocyte",196
+"280","SN127R1","NK cell",50
+"281","SN127R1","Neutrophil",391
+"282","SN127R1","Plasma cell",43
+"283","SN127R1","RBC",1
+"284","SN127R1","Stromal",5
+"285","SN127R1","T cell",303
+"286","SN127R1","Unknown myeloid",167
+"287","SN127R1","pDC",31
+"288","SN128R1","B progenitors",169
+"289","SN128R1","CD8+ T cell",268
+"290","SN128R1","Early myeloid",772
+"291","SN128R1","GMP",178
+"292","SN128R1","HSPC",86
+"293","SN128R1","Intermediate myeloid",26
+"294","SN128R1","Late erythroid",872
+"295","SN128R1","Late myeloid",1840
+"296","SN128R1","MSC",8
+"297","SN128R1","Macrophage",19
+"298","SN128R1","Mature B",128
+"299","SN128R1","Monocyte",442
+"300","SN128R1","NK cell",166
+"301","SN128R1","Neutrophil",2468
+"302","SN128R1","Plasma cell",47
+"303","SN128R1","RBC",61
+"304","SN128R1","T cell",875
+"305","SN128R1","Unknown myeloid",513
+"306","SN128R1","pDC",52
+"307","SN130R1","B progenitors",78
+"308","SN130R1","CD8+ T cell",670
+"309","SN130R1","Early myeloid",659
+"310","SN130R1","GMP",222
+"311","SN130R1","HSPC",127
+"312","SN130R1","Intermediate myeloid",97
+"313","SN130R1","Late erythroid",527
+"314","SN130R1","Late myeloid",648
+"315","SN130R1","MSC",177
+"316","SN130R1","Macrophage",410
+"317","SN130R1","Mature B",595
+"318","SN130R1","Monocyte",1717
+"319","SN130R1","NK cell",346
+"320","SN130R1","Neutrophil",1574
+"321","SN130R1","Plasma cell",86
+"322","SN130R1","RBC",101
+"323","SN130R1","Stromal",220
+"324","SN130R1","T cell",976
+"325","SN130R1","Unknown myeloid",677
+"326","SN130R1","pDC",37
+"327","SN131R1","B progenitors",850
+"328","SN131R1","CD8+ T cell",150
+"329","SN131R1","Early myeloid",360
+"330","SN131R1","GMP",81
+"331","SN131R1","HSPC",102
+"332","SN131R1","Intermediate myeloid",27
+"333","SN131R1","Late erythroid",347
+"334","SN131R1","Late myeloid",1961
+"335","SN131R1","MSC",10
+"336","SN131R1","Macrophage",11
+"337","SN131R1","Mature B",61
+"338","SN131R1","Monocyte",716
+"339","SN131R1","NK cell",33
+"340","SN131R1","Neutrophil",935
+"341","SN131R1","Plasma cell",26
+"342","SN131R1","RBC",4
+"343","SN131R1","Stromal",5
+"344","SN131R1","T cell",196
+"345","SN131R1","Unknown myeloid",215
+"346","SN131R1","pDC",57
+"347","SN133R1","B progenitors",19
+"348","SN133R1","CD8+ T cell",136
+"349","SN133R1","Early myeloid",2
+"350","SN133R1","GMP",3
+"351","SN133R1","HSPC",12
+"352","SN133R1","Late erythroid",6
+"353","SN133R1","Late myeloid",1
+"354","SN133R1","Macrophage",24
+"355","SN133R1","Mature B",29
+"356","SN133R1","Monocyte",972
+"357","SN133R1","NK cell",391
+"358","SN133R1","Plasma cell",1
+"359","SN133R1","RBC",29
+"360","SN133R1","T cell",902
+"361","SN133R1","Unknown myeloid",9
+"362","SN133R1","pDC",10
+"363","SN134R1","B progenitors",508
+"364","SN134R1","CD8+ T cell",250
+"365","SN134R1","Early myeloid",190
+"366","SN134R1","GMP",93
+"367","SN134R1","HSPC",91
+"368","SN134R1","Intermediate myeloid",43
+"369","SN134R1","Late erythroid",135
+"370","SN134R1","Late myeloid",315
+"371","SN134R1","MSC",6
+"372","SN134R1","Macrophage",25
+"373","SN134R1","Mature B",122
+"374","SN134R1","Monocyte",422
+"375","SN134R1","NK cell",75
+"376","SN134R1","Neutrophil",165
+"377","SN134R1","Plasma cell",29
+"378","SN134R1","RBC",10
+"379","SN134R1","Stromal",4
+"380","SN134R1","T cell",402
+"381","SN134R1","Unknown myeloid",233
+"382","SN134R1","pDC",66
+"383","SN135R1","B progenitors",269
+"384","SN135R1","CD8+ T cell",963
+"385","SN135R1","Early myeloid",296
+"386","SN135R1","GMP",122
+"387","SN135R1","HSPC",84
+"388","SN135R1","Intermediate myeloid",12
+"389","SN135R1","Late erythroid",297
+"390","SN135R1","Late myeloid",386
+"391","SN135R1","MSC",33
+"392","SN135R1","Macrophage",63
+"393","SN135R1","Mature B",289
+"394","SN135R1","Monocyte",516
+"395","SN135R1","NK cell",462
+"396","SN135R1","Neutrophil",388
+"397","SN135R1","Plasma cell",80
+"398","SN135R1","RBC",74
+"399","SN135R1","Stromal",6
+"400","SN135R1","T cell",1733
+"401","SN135R1","Unknown myeloid",528
+"402","SN135R1","pDC",45
+"403","SN136R1","B progenitors",690
+"404","SN136R1","CD8+ T cell",731
+"405","SN136R1","Early myeloid",203
+"406","SN136R1","GMP",115
+"407","SN136R1","HSPC",143
+"408","SN136R1","Intermediate myeloid",21
+"409","SN136R1","Late erythroid",937
+"410","SN136R1","Late myeloid",553
+"411","SN136R1","MSC",10
+"412","SN136R1","Macrophage",33
+"413","SN136R1","Mature B",982
+"414","SN136R1","Monocyte",696
+"415","SN136R1","NK cell",152
+"416","SN136R1","Neutrophil",914
+"417","SN136R1","Plasma cell",33
+"418","SN136R1","RBC",35
+"419","SN136R1","Stromal",2
+"420","SN136R1","T cell",1066
+"421","SN136R1","Unknown myeloid",110
+"422","SN136R1","pDC",97
+"423","SN138R1","B progenitors",251
+"424","SN138R1","CD8+ T cell",680
+"425","SN138R1","Early myeloid",416
+"426","SN138R1","GMP",269
+"427","SN138R1","HSPC",100
+"428","SN138R1","Intermediate myeloid",60
+"429","SN138R1","Late erythroid",333
+"430","SN138R1","Late myeloid",812
+"431","SN138R1","MSC",44
+"432","SN138R1","Macrophage",112
+"433","SN138R1","Mature B",417
+"434","SN138R1","Monocyte",505
+"435","SN138R1","NK cell",290
+"436","SN138R1","Neutrophil",584
+"437","SN138R1","Plasma cell",23
+"438","SN138R1","RBC",19
+"439","SN138R1","Stromal",18
+"440","SN138R1","T cell",1624
+"441","SN138R1","Unknown myeloid",304
+"442","SN138R1","pDC",68
