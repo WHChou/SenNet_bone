@@ -1,0 +1,78 @@
+Loading required package: SeuratObject
+Loading required package: sp
+‘SeuratObject’ was built with package ‘Matrix’ 1.6.3 but the current
+version is 1.6.5; it is recomended that you reinstall ‘SeuratObject’ as
+the ABI for ‘Matrix’ may have changed
+
+Attaching package: ‘SeuratObject’
+
+The following object is masked from ‘package:base’:
+
+    intersect
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ lubridate 1.9.3     ✔ tibble    3.2.1
+✔ purrr     1.0.2     ✔ tidyr     1.3.1
+✔ readr     2.1.5     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘cowplot’
+
+The following object is masked from ‘package:lubridate’:
+
+    stamp
+
+========================================
+circlize version 0.4.16
+CRAN page: https://cran.r-project.org/package=circlize
+Github page: https://github.com/jokergoo/circlize
+Documentation: https://jokergoo.github.io/circlize_book/book/
+
+If you use it in published research, please cite:
+Gu, Z. circlize implements and enhances circular visualization
+  in R. Bioinformatics 2014.
+
+This message can be suppressed by:
+  suppressPackageStartupMessages(library(circlize))
+========================================
+
+Loading required package: grid
+========================================
+ComplexHeatmap version 2.18.0
+Bioconductor page: http://bioconductor.org/packages/ComplexHeatmap/
+Github page: https://github.com/jokergoo/ComplexHeatmap
+Documentation: http://jokergoo.github.io/ComplexHeatmap-reference
+
+If you use it in published research, please cite either one:
+- Gu, Z. Complex Heatmap Visualization. iMeta 2022.
+- Gu, Z. Complex heatmaps reveal patterns and correlations in multidimensional 
+    genomic data. Bioinformatics 2016.
+
+
+The new InteractiveComplexHeatmap package can directly export static 
+complex heatmaps into an interactive Shiny app with zero effort. Have a try!
+
+This message can be suppressed by:
+  suppressPackageStartupMessages(library(ComplexHeatmap))
+========================================
+
+Error in scale.data[anchor.features, ] : subscript out of bounds
+Calls: PrepSCTIntegration ... SetAssayData -> SetAssayData.Assay -> IsMatrixEmpty
+In addition: Warning message:
+The following requested features are not present in any models: IGLC1, AL589693.1, CCN2, H19, BX284613.2, AL136456.1, AC097518.2, AP000676.5, AC069410.1, AL163541.1, AC093916.1, GP1BB, MIR924HG, ADAMTSL4-AS1, AC079804.3, AC005050.3, AC093817.2, TAFA2, NIBAN1, CCN1, AC112770.1, AC105450.1, CCN5, ZFPM2-AS1, AL078604.4, AC084871.1, AC008696.2, NIBAN3, AL512603.2, TLCD4, HIST1H3D, AL592429.2, CCDC200, AC020651.2, AC079753.2, AC098588.3, CNTNAP3C, LINC02694, SNHG29, AC002072.1, LINC02772, AC023424.3, SGO1-AS1, TAFA1, AL050309.1, AC093865.1, SLC49A4, DISC1FP1, AL590807.1, AL008633.1, ECRG4, RESF1, AC002460.2, AC007389.1, LINC01619, AC127526.2, AC107223.1, AL392086.3, LINC02649, AC009522.1, AC016168.2, AL513166.1, AC068587.4, AC016074.2, AC119673.2, TSBP1-AS1, AL021155.5, AL365295.1, AC007368.1, LNCAROD, DIPK1A, SOX2-OT, PCBP1-AS1, HSD11B1-AS1, FLACC1, AC253572.2, AL162493.1, AP000829.1, DOP1B, PRXL2A, AC011246.1, AC079142.1, PRKCQ-AS1, AL079338.1, AL049779.4, AC011472.2, AL049828.1, PCED1B-A [... truncated] 
+Execution halted
