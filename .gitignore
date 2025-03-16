@@ -1,3 +1,4 @@
 RDS/
+.ipynb_checkpoints/
 *.rds
 *.h5ad
